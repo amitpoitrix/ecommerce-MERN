@@ -23,3 +23,21 @@ export const sliderItems = [
         bg: "F3F6F8"
     },
 ];
+
+export const categories = [
+    {
+        id: 1,
+        img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16906250/2022/3/23/63c58fd8-4b59-4e13-9e55-bbfe81358ca81648015250606-aarke-Ritu-Kumar-Women-Shirts-4591648015250090-1.jpg",
+        title: "SHIRT STYLE!",
+    },
+    {
+        id: 2,
+        img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7411324/2018/9/15/fc29403d-1d48-4fdc-b81d-89160ab96b7f1537002876305-na-6121537002876170-3.jpg",
+        title: "LOUNGEWEAR LOVE",
+    },
+    {
+        id: 3,
+        img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17685324/2022/3/30/80c69a68-1f9b-4d26-9ff6-07cc4fbc20be1648630430350BUYNEWTRENDWomenBlueStripedLightweightDenimJacketwithEmbroid1.jpg",
+        title: "LIGHT JACKETS",
+    }
+];
