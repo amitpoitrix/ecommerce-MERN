@@ -98,9 +98,8 @@ const Slider = () => {
 
         <Wrapper slideIndex={slideIndex} >
 
-            {sliderItems.map((item) => {
-                return (
-                    <Slide bg={item.bg}>
+            {sliderItems.map((item) => (
+                    <Slide bg={item.bg} key={item.id}>
                         <ImgContainer>
                             <Image src = {item.img} />
                         </ImgContainer>
@@ -111,8 +110,8 @@ const Slider = () => {
                             <Button>SHOW NOW</Button>
                         </InfoContainer>
                     </Slide>
-                )})};
-                
+                ))};
+
         </Wrapper>
 
         <Arrow direction="right" onClick={()=>handleClick("right")} >
