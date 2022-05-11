@@ -2,6 +2,7 @@ import styled from '@emotion/styled'
 import { ArrowLeftOutlined, ArrowRightOutlined } from '@mui/icons-material';
 import React, { useState } from 'react';
 import {sliderItems} from "../data";
+import { mobile } from '../responsive';
 
 const Container = styled.div`
     width: 100%;
@@ -10,6 +11,7 @@ const Container = styled.div`
     ${'' /* background-color: coral; */}
     position: relative;
     overflow: hidden;
+    ${mobile({display: "none"})};
 `;
 
 const Arrow = styled.div`
