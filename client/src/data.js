@@ -29,16 +29,19 @@ export const categories = [
         id: 1,
         img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/1/27/95803658-de92-4e63-932e-86ed041116441611743614531-1.jpg",
         title: "SHIRT STYLE!",
+        cat:"women",
     },
     {
         id: 2,
         img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7411324/2018/9/15/fc29403d-1d48-4fdc-b81d-89160ab96b7f1537002876305-na-6121537002876170-3.jpg",
         title: "LOUNGEWEAR LOVE",
+        cat:"coat",
     },
     {
         id: 3,
         img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17685324/2022/3/30/80c69a68-1f9b-4d26-9ff6-07cc4fbc20be1648630430350BUYNEWTRENDWomenBlueStripedLightweightDenimJacketwithEmbroid1.jpg",
         title: "LIGHT JACKETS",
+        cat:"jeans",
     }
 ];
 
