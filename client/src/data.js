@@ -47,35 +47,35 @@ export const categories = [
 
 export const popularProducts = [
     {
-        id: 1,
-        img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17769800/2022/4/5/e43016f1-ec64-4d18-bbc1-d7aa9a89914c1649171947260V-MartMaroonPrintCinchedWaistTop1.jpg",
-    },
-    {
-        id: 2,
-        img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7240789/2018/8/29/08ece6e4-9d6b-48e1-b49a-6d212c49cf001535523371025-NA-6191535523370910-1.jpg",
-    },
-    {
-        id: 3,
-        img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14245752/2021/5/24/92fc6460-12af-4f1d-b97b-456bcfa599911621851352279NautiNatiBluePinkBlousonTop2.jpg",
-    },
-    {
-        id: 4,
-        img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17516364/2022/3/14/e7fcfa44-d1c5-4732-b828-64e2bb4a8bc41647257923556PROTEENSGirlsBluePoloCollarExtendedSleevesT-shirt1.jpg",
-    },
-    {
-        id: 5,
-        img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/6/30/30acb84f-4eb3-4c0d-a2d9-b9d23b5ada3a1625052428151-1.jpg",
-    },
-    {
-        id: 6,
-        img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17769876/2022/4/5/837b1b3e-a57d-419f-8bb4-03c6851b4e181649171373944V-MartBlueFloralPrintMandarinCollarTop1.jpg",
-    },
-    {
-        id: 7,
-        img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16065180/2021/11/11/e46441c7-467f-48b1-95e4-2496e02a9b341636632357159CherokeeGirlsBlueQuiltedJacket1.jpg",
-    },
-    {
-        id: 8,
-        img: "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16840074/2022/1/15/d5f2ec49-717c-460c-8b4c-ab0d080638cc1642229612483ATUNMagentaFloralPrintKaftanTop1.jpg",
-    },
+        id:1,
+        img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      },
+      {
+        id:2,
+        img:"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7240789/2018/8/29/08ece6e4-9d6b-48e1-b49a-6d212c49cf001535523371025-NA-6191535523370910-1.jpg",
+      },
+      {
+        id:3,
+        img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+      },
+      {
+        id:4,
+        img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      },
+      {
+        id:5,
+        img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+      },
+      {
+        id:6,
+        img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+      },
+      {
+        id:7,
+        img:"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16065180/2021/11/11/e46441c7-467f-48b1-95e4-2496e02a9b341636632357159CherokeeGirlsBlueQuiltedJacket1.jpg",
+      },
+      {
+        id:8,
+        img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+      },
 ];
