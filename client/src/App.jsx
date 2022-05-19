@@ -9,6 +9,7 @@ import {
   Routes,
   Route
 } from "react-router-dom";
+import Success from "./pages/Success";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
         <Route exact path="/cart" element={<Cart />} />
         <Route exact path="/login" element={<Login />} />
         <Route exact path="/register" element={<Register />} />
+        <Route exact path="/success" element={<Success />} />
       </Routes>  
     </Router>
   );
